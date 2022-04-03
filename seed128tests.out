@@ -1,0 +1,330 @@
+SEED128ECB Tests
+Encrypt Key0
+Entropy
+Entropy = 4.054467 bits per byte.
+
+Optimum compression would reduce the size
+of this 2576 byte file by 49 percent.
+
+Chi square distribution for 2576 samples is 38131.18, and randomly
+would exceed this value less than 0.01 percent of the times.
+
+Arithmetic mean value of data bytes is 117.2186 (127.5 = random).
+Monte Carlo value for Pi is 2.993006993 (error 4.73 percent).
+Serial correlation coefficient is -0.010886 (totally uncorrelated = 0.0).
+GZIP
+-rw-r--r-- 1 kali kali 2576 Oct 12 21:43 seed128ecb.2560.key0.out
+-rw-r--r-- 1 kali kali   99 Oct 12 21:43 seed128ecb.2560.key0.out.gz
+
+Encrypt Key1
+Entropy
+Entropy = 4.050286 bits per byte.
+
+Optimum compression would reduce the size
+of this 2576 byte file by 49 percent.
+
+Chi square distribution for 2576 samples is 38163.18, and randomly
+would exceed this value less than 0.01 percent of the times.
+
+Arithmetic mean value of data bytes is 128.5625 (127.5 = random).
+Monte Carlo value for Pi is 2.983682984 (error 5.03 percent).
+Serial correlation coefficient is -0.036267 (totally uncorrelated = 0.0).
+GZIP
+-rw-r--r-- 1 kali kali 2576 Oct 12 21:43 seed128ecb.2560.key1.out
+-rw-r--r-- 1 kali kali   99 Oct 12 21:43 seed128ecb.2560.key1.out.gz
+
+Encrypt Key2
+Entropy
+Entropy = 3.930243 bits per byte.
+
+Optimum compression would reduce the size
+of this 2576 byte file by 50 percent.
+
+Chi square distribution for 2576 samples is 43219.38, and randomly
+would exceed this value less than 0.01 percent of the times.
+
+Arithmetic mean value of data bytes is 114.4573 (127.5 = random).
+Monte Carlo value for Pi is 3.496503497 (error 11.30 percent).
+Serial correlation coefficient is 0.349616 (totally uncorrelated = 0.0).
+GZIP
+-rw-r--r-- 1 kali kali 2576 Oct 12 21:43 seed128ecb.2560.key2.out
+-rw-r--r-- 1 kali kali   99 Oct 12 21:43 seed128ecb.2560.key2.out.gz
+
+Encrypt Key3
+Entropy
+Entropy = 3.801062 bits per byte.
+
+Optimum compression would reduce the size
+of this 2576 byte file by 52 percent.
+
+Chi square distribution for 2576 samples is 48339.78, and randomly
+would exceed this value less than 0.01 percent of the times.
+
+Arithmetic mean value of data bytes is 138.7706 (127.5 = random).
+Monte Carlo value for Pi is 3.002331002 (error 4.43 percent).
+Serial correlation coefficient is -0.089568 (totally uncorrelated = 0.0).
+GZIP
+-rw-r--r-- 1 kali kali 2576 Oct 12 21:43 seed128ecb.2560.key3.out
+-rw-r--r-- 1 kali kali   99 Oct 12 21:43 seed128ecb.2560.key3.out.gz
+
+Encrypt Key4
+Entropy
+Entropy = 4.050286 bits per byte.
+
+Optimum compression would reduce the size
+of this 2576 byte file by 49 percent.
+
+Chi square distribution for 2576 samples is 38163.18, and randomly
+would exceed this value less than 0.01 percent of the times.
+
+Arithmetic mean value of data bytes is 131.6918 (127.5 = random).
+Monte Carlo value for Pi is 2.498834499 (error 20.46 percent).
+Serial correlation coefficient is -0.295821 (totally uncorrelated = 0.0).
+GZIP
+-rw-r--r-- 1 kali kali 2576 Oct 12 21:43 seed128ecb.2560.key4.out
+-rw-r--r-- 1 kali kali   99 Oct 12 21:43 seed128ecb.2560.key4.out.gz
+
+Random 2560 Input Tests - SEED 128 ECB
+Encrypt Key1 Random 2560
+Entropy
+Entropy = 7.921809 bits per byte.
+
+Optimum compression would reduce the size
+of this 2576 byte file by 0 percent.
+
+Chi square distribution for 2576 samples is 270.21, and randomly
+would exceed this value 24.51 percent of the times.
+
+Arithmetic mean value of data bytes is 129.1615 (127.5 = random).
+Monte Carlo value for Pi is 2.871794872 (error 8.59 percent).
+Serial correlation coefficient is -0.013444 (totally uncorrelated = 0.0).
+GZIP
+-rw-r--r-- 1 kali kali 2576 Oct 12 21:43 seed128ecb.2560.random.key1.out
+-rw-r--r-- 1 kali kali 2631 Oct 12 21:43 seed128ecb.2560.random.key1.out.gz
+
+Random 512 Input Tests - SEED 128 ECB
+Encrypt Key1 Random 2560.512
+Entropy
+Entropy = 7.670444 bits per byte.
+
+Optimum compression would reduce the size
+of this 2576 byte file by 4 percent.
+
+Chi square distribution for 2576 samples is 988.52, and randomly
+would exceed this value less than 0.01 percent of the times.
+
+Arithmetic mean value of data bytes is 129.2613 (127.5 = random).
+Monte Carlo value for Pi is 3.067599068 (error 2.36 percent).
+Serial correlation coefficient is -0.059510 (totally uncorrelated = 0.0).
+GZIP
+-rw-r--r-- 1 kali kali 2576 Oct 12 21:43 seed128ecb.2560.512.key1.out
+-rw-r--r-- 1 kali kali  628 Oct 12 21:43 seed128ecb.2560.512.key1.out.gz
+
+Random 256 Input Tests - SEED 128 ECB
+Encrypt Key1 Random 2560.256
+Entropy
+Entropy = 7.187645 bits per byte.
+
+Optimum compression would reduce the size
+of this 2576 byte file by 10 percent.
+
+Chi square distribution for 2576 samples is 2517.96, and randomly
+would exceed this value less than 0.01 percent of the times.
+
+Arithmetic mean value of data bytes is 130.1386 (127.5 = random).
+Monte Carlo value for Pi is 2.974358974 (error 5.32 percent).
+Serial correlation coefficient is -0.015533 (totally uncorrelated = 0.0).
+GZIP
+-rw-r--r-- 1 kali kali 2576 Oct 12 21:43 seed128ecb.2560.256.key1.out
+-rw-r--r-- 1 kali kali  359 Oct 12 21:43 seed128ecb.2560.256.key1.out.gz
+
+Random SEED 128 Input Tests - SEED 128 ECB
+Encrypt Key1 Random 2560.128
+Entropy
+Entropy = 6.612906 bits per byte.
+
+Optimum compression would reduce the size
+of this 2576 byte file by 17 percent.
+
+Chi square distribution for 2576 samples is 4839.45, and randomly
+would exceed this value less than 0.01 percent of the times.
+
+Arithmetic mean value of data bytes is 133.3839 (127.5 = random).
+Monte Carlo value for Pi is 3.002331002 (error 4.43 percent).
+Serial correlation coefficient is -0.056567 (totally uncorrelated = 0.0).
+GZIP
+-rw-r--r-- 1 kali kali 2576 Oct 12 21:43 seed128ecb.2560.128.key1.out
+-rw-r--r-- 1 kali kali  225 Oct 12 21:43 seed128ecb.2560.128.key1.out.gz
+
+SEED128CBC Tests
+Encrypt Key0 IV0
+Entropy
+Entropy = 7.934108 bits per byte.
+
+Optimum compression would reduce the size
+of this 2576 byte file by 0 percent.
+
+Chi square distribution for 2576 samples is 235.03, and randomly
+would exceed this value 81.02 percent of the times.
+
+Arithmetic mean value of data bytes is 125.9014 (127.5 = random).
+Monte Carlo value for Pi is 3.254079254 (error 3.58 percent).
+Serial correlation coefficient is 0.008340 (totally uncorrelated = 0.0).
+GZIP
+-rw-r--r-- 1 kali kali 2576 Oct 12 21:43 seed128cbc.2560.key0.out
+-rw-r--r-- 1 kali kali 2624 Oct 12 21:43 seed128cbc.2560.key0.out.gz
+
+Encrypt Key1
+Entropy
+Entropy = 7.925891 bits per byte.
+
+Optimum compression would reduce the size
+of this 2576 byte file by 0 percent.
+
+Chi square distribution for 2576 samples is 251.53, and randomly
+would exceed this value 54.97 percent of the times.
+
+Arithmetic mean value of data bytes is 125.6145 (127.5 = random).
+Monte Carlo value for Pi is 3.226107226 (error 2.69 percent).
+Serial correlation coefficient is 0.040661 (totally uncorrelated = 0.0).
+GZIP
+-rw-r--r-- 1 kali kali 2576 Oct 12 21:43 seed128cbc.2560.key1.out
+-rw-r--r-- 1 kali kali 2624 Oct 12 21:43 seed128cbc.2560.key1.out.gz
+
+Encrypt Key2
+Entropy
+Entropy = 7.936208 bits per byte.
+
+Optimum compression would reduce the size
+of this 2576 byte file by 0 percent.
+
+Chi square distribution for 2576 samples is 224.70, and randomly
+would exceed this value 91.45 percent of the times.
+
+Arithmetic mean value of data bytes is 125.8288 (127.5 = random).
+Monte Carlo value for Pi is 3.114219114 (error 0.87 percent).
+Serial correlation coefficient is 0.003094 (totally uncorrelated = 0.0).
+GZIP
+-rw-r--r-- 1 kali kali 2576 Oct 12 21:43 seed128cbc.2560.key2.out
+-rw-r--r-- 1 kali kali 2624 Oct 12 21:43 seed128cbc.2560.key2.out.gz
+
+Encrypt Key3
+Entropy
+Entropy = 7.946962 bits per byte.
+
+Optimum compression would reduce the size
+of this 2576 byte file by 0 percent.
+
+Chi square distribution for 2576 samples is 185.74, and randomly
+would exceed this value 99.96 percent of the times.
+
+Arithmetic mean value of data bytes is 127.6281 (127.5 = random).
+Monte Carlo value for Pi is 3.104895105 (error 1.17 percent).
+Serial correlation coefficient is 0.020224 (totally uncorrelated = 0.0).
+GZIP
+-rw-r--r-- 1 kali kali 2576 Oct 12 21:43 seed128cbc.2560.key3.out
+-rw-r--r-- 1 kali kali 2624 Oct 12 21:43 seed128cbc.2560.key3.out.gz
+
+Encrypt Key4
+Entropy
+Entropy = 7.927802 bits per byte.
+
+Optimum compression would reduce the size
+of this 2576 byte file by 0 percent.
+
+Chi square distribution for 2576 samples is 250.53, and randomly
+would exceed this value 56.72 percent of the times.
+
+Arithmetic mean value of data bytes is 127.6980 (127.5 = random).
+Monte Carlo value for Pi is 3.058275058 (error 2.65 percent).
+Serial correlation coefficient is 0.003294 (totally uncorrelated = 0.0).
+GZIP
+-rw-r--r-- 1 kali kali 2576 Oct 12 21:43 seed128cbc.2560.key4.out
+-rw-r--r-- 1 kali kali 2624 Oct 12 21:43 seed128cbc.2560.key4.out.gz
+
+SEED128OFB Tests
+Encrypt Key0 IV0
+Entropy
+Entropy = 7.934209 bits per byte.
+
+Optimum compression would reduce the size
+of this 2560 byte file by 0 percent.
+
+Chi square distribution for 2560 samples is 233.00, and randomly
+would exceed this value 83.50 percent of the times.
+
+Arithmetic mean value of data bytes is 125.8496 (127.5 = random).
+Monte Carlo value for Pi is 3.248826291 (error 3.41 percent).
+Serial correlation coefficient is 0.008802 (totally uncorrelated = 0.0).
+GZIP
+-rw-r--r-- 1 kali kali 2560 Oct 12 21:43 seed128ofb.2560.key0.out
+-rw-r--r-- 1 kali kali 2608 Oct 12 21:43 seed128ofb.2560.key0.out.gz
+
+Encrypt Key1
+Entropy
+Entropy = 7.924658 bits per byte.
+
+Optimum compression would reduce the size
+of this 2560 byte file by 0 percent.
+
+Chi square distribution for 2560 samples is 254.40, and randomly
+would exceed this value 49.88 percent of the times.
+
+Arithmetic mean value of data bytes is 125.3008 (127.5 = random).
+Monte Carlo value for Pi is 3.220657277 (error 2.52 percent).
+Serial correlation coefficient is 0.038591 (totally uncorrelated = 0.0).
+GZIP
+-rw-r--r-- 1 kali kali 2560 Oct 12 21:43 seed128ofb.2560.key1.out
+-rw-r--r-- 1 kali kali 2608 Oct 12 21:43 seed128ofb.2560.key1.out.gz
+
+Encrypt Key2
+Entropy
+Entropy = 7.935101 bits per byte.
+
+Optimum compression would reduce the size
+of this 2560 byte file by 0 percent.
+
+Chi square distribution for 2560 samples is 227.00, and randomly
+would exceed this value 89.59 percent of the times.
+
+Arithmetic mean value of data bytes is 125.8129 (127.5 = random).
+Monte Carlo value for Pi is 3.107981221 (error 1.07 percent).
+Serial correlation coefficient is 0.004064 (totally uncorrelated = 0.0).
+GZIP
+-rw-r--r-- 1 kali kali 2560 Oct 12 21:43 seed128ofb.2560.key2.out
+-rw-r--r-- 1 kali kali 2608 Oct 12 21:43 seed128ofb.2560.key2.out.gz
+
+Encrypt Key3
+Entropy
+Entropy = 7.946291 bits per byte.
+
+Optimum compression would reduce the size
+of this 2560 byte file by 0 percent.
+
+Chi square distribution for 2560 samples is 186.60, and randomly
+would exceed this value 99.96 percent of the times.
+
+Arithmetic mean value of data bytes is 127.4453 (127.5 = random).
+Monte Carlo value for Pi is 3.117370892 (error 0.77 percent).
+Serial correlation coefficient is 0.021475 (totally uncorrelated = 0.0).
+GZIP
+-rw-r--r-- 1 kali kali 2560 Oct 12 21:43 seed128ofb.2560.key3.out
+-rw-r--r-- 1 kali kali 2608 Oct 12 21:43 seed128ofb.2560.key3.out.gz
+
+Encrypt Key4
+Entropy
+Entropy = 7.927405 bits per byte.
+
+Optimum compression would reduce the size
+of this 2560 byte file by 0 percent.
+
+Chi square distribution for 2560 samples is 250.20, and randomly
+would exceed this value 57.31 percent of the times.
+
+Arithmetic mean value of data bytes is 127.8410 (127.5 = random).
+Monte Carlo value for Pi is 3.061032864 (error 2.56 percent).
+Serial correlation coefficient is 0.005405 (totally uncorrelated = 0.0).
+GZIP
+-rw-r--r-- 1 kali kali 2560 Oct 12 21:43 seed128ofb.2560.key4.out
+-rw-r--r-- 1 kali kali 2608 Oct 12 21:43 seed128ofb.2560.key4.out.gz
+
